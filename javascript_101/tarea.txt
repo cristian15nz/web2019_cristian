@@ -1,0 +1,14 @@
+1. Hacer un scrpit que el usuario haga click 
+  sobre un div y aparezca un mensaje diciendo 
+  "Hola a todos"
+2. Hacer un script que se haga click en un parrafo
+   y le cambie el contenido por "contenido cambiado"
+3. Hacer un script que se haga click en un span
+   Muestre un prompt para que el usuario digite su
+   nombre, edad y telefono. Se debe mostrar esa 
+   informacion por la consola.
+4. Hacer un script que el usuario haga doble click
+    sobre un h1 y se muestre el contenido del h1
+    en un alert.
+5. Hacer un script que el usuario pase el mouse por 
+   encima de un enlace y le cambie el color y fondo.
